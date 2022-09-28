@@ -67,5 +67,5 @@
 # x2 = int(input('Введите координату х2: '))
 # y1 = int(input('Введите координату y1: '))
 # y2 = int(input('Введите координату y2: '))
-# distans = float((((x1-x2)**2) + ((y1-y2)**2))*0.5)
+# distans = float((((x1-x2)**2) + ((y1-y2)**2))**0.5)
 # print(distans)
